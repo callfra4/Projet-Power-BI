@@ -1,5 +1,5 @@
 # IUT SD2 - Power BI
-Ce document README.md va présenter le contenu de ce référentiel Git. Ce documet est écrit dans le cadre d'un projet a réalisé dans PowerBI qui a pour but d'évaluer l'impact de la classe de Diagnostic de performance Energétique (DPE) sur les consommations électriques des logements du départements 69.
+Ce fichier README.md présente le contenu de ce dépôt Git. Il a été rédigé dans le cadre d’un projet réalisé avec Power BI, visant à analyser l’impact de la classe de Diagnostic de Performance Énergétique (DPE) sur les consommations électriques des logements situés dans le département 69.
 
 ## Livrables attendus 
 
