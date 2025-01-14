@@ -4,7 +4,6 @@ Ce document README.md va présenter le contenu de ce référentiel Git. Ce docum
 ## Livrables attendus 
 
 - [x] Maquette Power BI
-- [x] Application déployée sur shinyapp.io
 - [x] Repository GitHub complet
 - [x] Captation vidéo de l'application
 
