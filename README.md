@@ -3,14 +3,14 @@ Ce document README.md va présenter le contenu de ce référentiel Git. Ce docum
 
 ## Livrables attendus 
 
-- [x] Rapport d'étude RMarkdown
+- [x] Maquette Power BI
 - [x] Application déployée sur shinyapp.io
 - [x] Repository GitHub complet
 - [x] Captation vidéo de l'application
 
 ## Planning
 
-1. Partie 1 : Power BI
+1. Partie 1 : Maquette Power BI
 2. Partie 2 : Documentation technique
 3. Partie 3 : Documentation fonctionnelle
 4. Partie 4 : lien youtube : 
