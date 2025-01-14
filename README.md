@@ -3,6 +3,7 @@ Ce document README.md va présenter le contenu de ce référentiel Git. Ce docum
 
 ## Livrables attendus 
 
+- [x] Application Power BI
 - [x] Maquette Power BI
 - [x] Repository GitHub complet
 - [x] Captation vidéo de l'application
