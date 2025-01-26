@@ -1,4 +1,5 @@
-# IUT SD2 - Power BI
+# Analyse de la consommation énergétique des logements en Corse
+
 
 Ce GitHub regroupe les éléments clés de notre projet collaboratif réalisé sous Power BI. Il inclut une documentation technique accompagnée d'une maquette, une documentation fonctionnelle détaillée, le fichier `.pbix` de nos rapports sous Power BI ainsi qu'un lien vers une captation vidéo illustrant le fonctionnement de l'application.  
 
