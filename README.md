@@ -7,6 +7,7 @@ L’application propose une analyse approfondie de la consommation énergétique
 - Les types de logements (anciens vs neufs)
 - Les usages énergétiques spécifique
 
+L'application permet également d'effectuer des filtrages personnalisés selon les critères définis, facilitant ainsi l'analyse spécifique des données selon les besoins des utilisateurs.
 
 ## Livrables attendus 
 
