@@ -5,10 +5,7 @@ Ce GitHub regroupe les éléments clés de notre projet collaboratif réalisé s
 L’application propose une analyse approfondie de la consommation énergétique des logements en Corse, en mettant l’accent sur des aspects essentiels tels que :  
 - Les étiquettes énergétiques (DPE)
 - Les types de logements (anciens vs neufs)
-- Les régions géographiques 
-- Les usages énergétiques spécifiques  
-
-Grâce à des visualisations interactives et des insights clairs, cette application aide les décideurs et acteurs du secteur à mieux comprendre les tendances, à identifier les zones critiques et à optimiser l’efficacité énergétique des logements
+- Les usages énergétiques spécifique
 
 
 ## Livrables attendus 
