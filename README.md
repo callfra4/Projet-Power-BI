@@ -14,7 +14,7 @@ L'application permet également d'effectuer des filtrages personnalisés selon l
 
 - [x] Documentation technique
 - [x] Documentation fonctionnelle
-- [x] Maquette
+- [x] Maquette de l'application
 - [x] Application Power BI
 - [x] Captation vidéo de l'application
 
