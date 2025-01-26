@@ -12,8 +12,9 @@ L'application permet également d'effectuer des filtrages personnalisés selon l
 
 ## Livrables attendus 
 
-- [x] Documentation technique (maquette)
+- [x] Documentation technique
 - [x] Documentation fonctionnelle
+- [x] Maquette
 - [x] Application Power BI
 - [x] Captation vidéo de l'application
 
