@@ -13,13 +13,10 @@ Grâce à des visualisations interactives et des insights clairs, cette applicat
 
 ## Livrables attendus 
 
-- [x] Application Power BI
-- [x] Maquette Power BI
-- [x] Repository GitHub complet
+- [x] Documentation technique (maquette)
+- [x] Documentation fonctionnelle
 - [x] Captation vidéo de l'application
 
 ## Planning
 
-1. Partie 1 : Documentation technique (maquette)
-2. Partie 2 : Documentation fonctionnelle
-3. Partie 3 : lien youtube : 
+ 
