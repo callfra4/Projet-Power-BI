@@ -12,6 +12,7 @@ L’application propose une analyse approfondie de la consommation énergétique
 
 - [x] Documentation technique (maquette)
 - [x] Documentation fonctionnelle
+- [x] Application Power BI
 - [x] Captation vidéo de l'application
 
 ## Planning
